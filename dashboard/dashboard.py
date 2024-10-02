@@ -2,7 +2,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
-from pathlib import Path
 
 # Set style seaborn
 sns.set(style='dark')
