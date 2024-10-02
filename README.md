@@ -1,5 +1,6 @@
 # Bike Sharing Analysis
 DICODING ID : geryyose
+You can view and interact with the dashboard at: [Bike Sharing Analysis Dashboard](https://bike-sharing-analysis-axkq8kkdrajxsgewvtibh6.streamlit.app/)
 
 ## Description
 This is a dashboard built using Streamlit for data visualization
